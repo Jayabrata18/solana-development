@@ -1,0 +1,15 @@
+{
+  "name": "airdrop-project",
+  "version": "1.0.0",
+  "description": "solana project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOY",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.73.3",
+    "bigint-buffer": "^1.1.5"
+  }
+}
